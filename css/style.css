@@ -797,7 +797,7 @@ template {
   padding-top: 20px;
 }
 .interna_sobre {
-  background: url(../img/bg-produtos.jpg) no-repeat center;
+  background: url(../img/construgrid/about/bg-header.jpg) no-repeat center;
   background-size: cover;
 }
 .produto_item {
@@ -949,7 +949,7 @@ template {
   margin-top: 8px;
 }
 .interna_portfolio {
-  background: url(../img/bg-portfolio.jpg) no-repeat center;
+  background: url(../img/construgrid/portfolio/agrimensura_head.jpg) no-repeat center;
   background-size: cover;
 }
 .quote_clientes {
@@ -972,7 +972,7 @@ template {
   font-style: normal;
 }
 .interna_contato {
-  background: url(../img/bg-contato.jpg) no-repeat center;
+  background: url(../img/construgrid/contato/topo_head.jpg) no-repeat center;
   background-size: cover;
 }
 .contato {
